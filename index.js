@@ -29,4 +29,4 @@ function switchOnCharmFromTip(tip){
         return "Bye.";
   }
 }
-console.log(switchOnCharmFromTip("thanks for everything"));
+// console.log(switchOnCharmFromTip("thanks for everything"));
